@@ -1,14 +1,8 @@
-#include<iostream>
-using namespace std;
+#include<stdio.h>
 
 
 int main()
 {
-	cout<<"第二次提交"<<endl;
-
-
-
-
-
+	printf"哈哈哈";
 return 0;
 }
