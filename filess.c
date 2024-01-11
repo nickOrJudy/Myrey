@@ -1,8 +1,9 @@
 #include<stdio.h>
-
+using namespace std;
 
 int main()
 {
-	printf"哈哈哈";
-return 0;
+	cout<<"祝您生活愉快，再见"<<'\n';
+
+	return 0;
 }
